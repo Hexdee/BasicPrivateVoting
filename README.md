@@ -9,7 +9,7 @@ This project demonstrates a basic voting contract with the following features
 
 ### Deployed contract address
 
-0xA669BEab0C5745681b089C714582004b8528EA41
+[0xA669BEab0C5745681b089C714582004b8528EA41](https://explorer-evm.testnet.swisstronik.com/address/0xA669BEab0C5745681b089C714582004b8528EA41)
 
 ### Build
 
